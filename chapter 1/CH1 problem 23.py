@@ -1,0 +1,9 @@
+#23. Calculate average of three subjects along with their total.
+MATHS=float(input("ENTER THE MARKS OF MATHS:"))
+CHEM=float(input("ENTER THE MARKS OF CHEM:"))
+PHY=float(input("ENTER THE MARKS OF PHY:"))
+
+TOTAL_MARKS=MATHS+CHEM+PHY
+print("TOTAL MARKS OF THREE SUBJECTS MARKS IS:",TOTAL_MARKS)
+AVERAGE =(MATHS+CHEM+PHY)/3
+print("AVERAGE MARKS OF THREE SUBJECTS MARKS IS:",AVERAGE)

@@ -1,0 +1,4 @@
+#9.convert RUPEES INTO DOLLARS 
+a=int(input("THE NUMBER OF RUPEES:"))
+b=a/48
+print("THE NUMBER OF DOLLARS YOU HAVE IS:",b)
