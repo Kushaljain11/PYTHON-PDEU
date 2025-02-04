@@ -1,1 +1,9 @@
+#1) Count how many vowels are there in a string. Accept the string from the user.
+str=(input("type any string: "))
+vowels = "aeiouAEIOU"
+vowel_count = 0
 
+for char in str:
+    if char in vowels:
+        vowel_count += 1
+print("Number of vowels in the string:", vowel_count)
