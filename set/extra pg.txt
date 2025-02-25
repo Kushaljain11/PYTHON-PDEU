@@ -1,0 +1,8 @@
+def remove_duplicates():
+    l=[1,5,1,2,3,7,3,5]
+    print("original list",l)
+    l=list(set(l))
+    print("list without duplicates:")
+    print(l)
+remove_duplicates()
+
