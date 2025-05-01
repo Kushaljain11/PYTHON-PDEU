@@ -1,3 +1,4 @@
+# 3)	Accept two strings. Check whether one string is there in another string.
 def is_substring(s1, s2):
     for i in range(len(s1) - len(s2) + 1):
         if s1[i:i+len(s2)] == s2:
