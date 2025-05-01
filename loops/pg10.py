@@ -1,3 +1,4 @@
+# 10)	Generate N numbers of Fibonacci series.
 n = int(input("Enter N: "))
 a, b = 0, 1
 for _ in range(n):
