@@ -1,3 +1,5 @@
+# ''' 4)	Write a function that removes one string from another string, if present.
+#  E.g. Onestring = “abcdef”, removestring = “cd”. The finalstring should contain “abef”.'''
 def remove_substring(s, sub):
     result = ""
     i = 0
