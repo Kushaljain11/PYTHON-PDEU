@@ -1,4 +1,4 @@
-
+# 2)	Write your own functions (without using built-in functions) to convert all characters of a string into lower case/upper case/toggle case.
 def to_lowercase(s):
     result = ""
     for char in s:
