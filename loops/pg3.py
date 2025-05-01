@@ -1,3 +1,4 @@
+# 3)	Count no. of alphabets and no. of digits in any given string.
 s = input("Enter a string: ")
 alphabets = 0
 digits = 0
