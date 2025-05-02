@@ -1,6 +1,6 @@
 
 names_set = set()
-names_set.update(["kushal", "sneh", "vraj", "parth", "mahir"])
+names_set.update(["kushal", "sneh", "vraj", "parth"])
 names_set.remove("sneh")
 names_set.add("daksh")
 names_set.discard("parth")
